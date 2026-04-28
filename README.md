@@ -3,6 +3,8 @@ A Roblox Global Announcement System with lots of customizability and no limits
 
 https://www.roblox.com/games/88268345301119/RoShout-v0-0-0
 
+https://create.roblox.com/store/asset/72061943062598/RoShout-Global-Announcements
+
 GLOBAL ANNOUNCEMENT SYSTEM
 FULLY CUSTOMIZABLE!
 
